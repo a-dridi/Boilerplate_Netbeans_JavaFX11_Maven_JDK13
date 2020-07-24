@@ -54,7 +54,7 @@
                     </execution>
                 </executions>  
                 <configuration>
-                    <mainClass>at.adridi.scannedtextrecognitioncategorisation.MainApp</mainClass>
+                    <mainClass>at.adridi.boilerplateJavaFX11MavenJDK13.MainApp</mainClass>
                 </configuration>
             </plugin>
         </plugins>
